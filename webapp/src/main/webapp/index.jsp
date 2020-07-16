@@ -1,5 +1,4 @@
 <h1> Hello, Welcome to RamireddyS Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Vijay Practice purpose </h2>
 <h2> Change the dircetory linux system RAM </h2>
 <h1> Thanks for reaching here </h1>
 <h1> This is from Jenkins job </h1>
